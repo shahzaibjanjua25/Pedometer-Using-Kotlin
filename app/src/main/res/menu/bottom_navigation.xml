@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottom_menu"
+    >
+    <item android:id="@+id/gps_training"
+        android:title=""
+        android:icon="@drawable/map_location_pin_svgrepo_com"
+        />
+    <item android:id="@+id/home"
+        android:title=""
+        android:icon="@drawable/running_stick_figure_svgrepo_com"
+        />
+    <item android:id="@+id/target"
+        android:title=""
+        android:icon="@drawable/target_svgrepo_com"
+        />
+
+</menu>
